@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/qnE69DpVcCoAAAAM/mrfresh-sad-cat.gif"  />
+<img align="right" height="150" src="https://static.wikia.nocookie.net/nicos-nextbots-fanmade/images/2/26/Susfresh.gif/revision/latest/scale-to-width-down/250?cb=20240501055038"  />
 
 ###
 
