@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.kym-cdn.com/photos/images/newsfeed/002/738/959/060.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/qnE69DpVcCoAAAAM/mrfresh-sad-cat.gif"  />
 
 ###
 
@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/CarlosMartins33/CarlosMartins33/output/snake.svg" alt="Snake animation" />
+
 
 ###
